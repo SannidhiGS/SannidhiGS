@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Sannidhi G S
-- 👀 I’m interested in python programing...
-- 🌱 I’m currently learning full stack development...
-- 💞️ I’m looking to collaborate on supporting company ...
-- 📫 linked in...
+# 👋 Hi there, I'm **Sannidhi G S**  
 
-<!---
-SannidhiGS/SannidhiGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Java Developer | Full Stack Learner | Tech Enthusiast**
+
+---
+
+### 🌱 About Me
+- 🎯 I’m currently learning **Full Stack Development (Java | Spring Boot | React | MySQL)**  
+- 💡 Passionate about building **efficient, user-friendly, and scalable applications**  
+- 🤝 I’m looking to collaborate with a **supportive company** to grow and contribute  
+- 💬 Ask me about **Java, OOPs, Servlets, JSP, JDBC, HTML, CSS, and MySQL**
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Java, SQL, HTML, CSS, JavaScript  
+**Frameworks:** Spring Boot, Hibernate  
+**Databases:** MySQL  
+**Tools & IDEs:** IntelliJ IDEA, Eclipse, VS Code  
+**Version Control:** Git & GitHub  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sannidhi-g-s-8554a6298/))  
+📧 **Email:** ssannidhigs@gnail.com  
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Keep learning, keep growing 🚀
