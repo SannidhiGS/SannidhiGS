@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sannidhi-g-s-8554a6298/))  
+[![LinkedIn](https://www.linkedin.com/in/sannidhi-g-s-8554a6298/))  
 📧 **Email:** ssannidhigs@gnail.com  
 
 ---
