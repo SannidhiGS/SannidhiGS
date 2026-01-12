@@ -23,7 +23,7 @@
 
 ### 📫 Connect with Me
 LinkedIn:https://www.linkedin.com/in/sannidhi-g-s-8554a6298/
-📧 **Email:** ssannidhigs@gnail.com  
+📧 **Email:** ssannidhigs@gmail.com  
 
 ---
 
