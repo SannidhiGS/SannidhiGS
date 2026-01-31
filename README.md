@@ -13,12 +13,15 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Java, SQL, HTML, CSS, JavaScript  
-**Frameworks:** Spring Boot, Hibernate  
-**Databases:** MySQL  
-**Tools & IDEs:** IntelliJ IDEA, Eclipse, VS Code  
-**Version Control:** Git & GitHub  
-
+• Programming Languages: Java, JavaScript, PHP 
+• Web Technologies: HTML5, CSS3, Bootstrap, Servlets, JSP, JSTL 
+• Backend & Databases: SQL (MySQL) 
+• Frameworks & Libraries: JDBC, JPA, Hibernate, Spring Core, Spring MVC 
+• Tools & Platforms: Git, GitHub, IntelliJ IDEA, VS Code, MySQL Workbench, Tomcat, Lombok, 
+Maven 
+• Core Concepts: Object-Oriented Programming (OOP), Exception Handling, Collections Framework, 
+Generics, Functional Interfaces (Java 8), MVC Architecture, Software Development Life Cycle (SDLC), 
+Data Structures & Algorithms (DSA)
 ---
 
 ### 📫 Connect with Me
