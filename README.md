@@ -16,7 +16,7 @@
 💻 Technical Skills
 🌐 Web Technologies
 
-HTML5, CSS3, Bootstrap
+HTML5, CSS3, Bootstrap,JS
 
 Servlets, JSP, JSTL
 
