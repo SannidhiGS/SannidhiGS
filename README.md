@@ -9,7 +9,6 @@
 - 💡 Passionate about building **efficient, user-friendly, and scalable applications**  
 - 🤝 I’m looking to collaborate with a **supportive company** to grow and contribute  
 - 💬 Ask me about **Java, OOPs, Servlets, JSP, JDBC, HTML, CSS, and MySQL**
-
 ---
 
 ### 🛠️ Tech Stack
@@ -17,6 +16,8 @@
 🌐 Web Technologies
 
 HTML5, CSS3, Bootstrap,JS
+
+Postman
 
 Servlets, JSP, JSTL
 
