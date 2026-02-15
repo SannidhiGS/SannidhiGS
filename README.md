@@ -19,6 +19,9 @@ HTML5, CSS3, Bootstrap,JS
 
 Postman
 
+REST API
+*JERSY implimentation
+
 Servlets, JSP, JSTL
 
 🛠 Backend & Databases
