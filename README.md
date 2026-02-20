@@ -20,7 +20,7 @@ HTML5, CSS3, Bootstrap,JS
 Postman
 
 REST API
-*JERSY implimentation
+JERSY implimentation
 
 Servlets, JSP, JSTL
 
