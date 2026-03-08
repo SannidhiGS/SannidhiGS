@@ -12,9 +12,11 @@
 ---
 
 ### 🛠️ Tech Stack
+---
 💻 Technical Skills
-🌐 Web Technologies
 
+🌐 Web Technologies
+---
 HTML5, CSS3, Bootstrap,JS
 
 Postman
