@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 👋 Hi there, I'm **Sannidhi G S**
 
 💻 **Java Developer | Full Stack Learner | Tech Enthusiast**
