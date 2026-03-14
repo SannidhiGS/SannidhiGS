@@ -10,8 +10,6 @@
 - 🤝 I’m looking to collaborate with a **supportive company** to grow and contribute  
 - 💬 Ask me about **Java, OOPs, Servlets, JSP, JDBC, HTML, CSS, and MySQL**
 ---
-
-### 🛠️ Tech Stack
 ---
 💻 Technical Skills
 ---
