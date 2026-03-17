@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm **Sannidhi G S**
+# 👋 Hi developers, I'm **Sannidhi G S**
 
 💻 **Java Developer | Full Stack Learner | Tech Enthusiast**
 
